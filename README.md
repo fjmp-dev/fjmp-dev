@@ -10,7 +10,7 @@
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fjmp-dev/fjmp-dev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/fjmp-dev/fjmp-dev/output/github-contribution-grid-snake-green.svg" alt="Snake eating my contributions" />
 </p>
 
 </div>
@@ -89,15 +89,15 @@ const francisco = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjmp-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=00ff87&border_color=00ff87"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjmp-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff87&text_color=ffffff&icon_color=00ff87&border_color=00ff87&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmp-dev&layout=compact&langs_count=7&theme=radical&bg_color=0d1117&title_color=00ff87&text_color=ffffff&border_color=00ff87"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmp-dev&layout=compact&langs_count=7&theme=dark&bg_color=0d1117&title_color=00ff87&text_color=ffffff&border_color=00ff87&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fjmp-dev&theme=radical&background=0d1117&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff87&sideLabels=00ff87&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fjmp-dev&theme=dark&background=0d1117&stroke=00ff87&ring=00ff87&fire=00ff87&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff87&sideLabels=00ff87&dates=ffffff&hide_border=true)
 
 </div>
 
@@ -112,7 +112,7 @@ const francisco = {
 
 ---
 
-## 📫 ¡Contáctame!
+## 📫 ¡Conectemos!
 
 <div align="center">
 
@@ -129,7 +129,6 @@ const francisco = {
 
 <div align="center">
 
-### "La mejor manera de predecir el futuro es crearlo"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fjmp-dev&color=00ff87&style=flat-square&label=Visitas+al+perfil)
 
