@@ -8,11 +8,6 @@
 <!-- Animated Description -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%8E%93+Software+Engineering+Student+%7C+%F0%9F%92%BB+Freelance+Developer;%F0%9F%9A%80+Creando+el+futuro%2C+una+l%C3%ADnea+de+c%C3%B3digo+a+la+vez;%F0%9F%8C%9F+Frontend+Specialist+%26+UI%2FUX+Enthusiast" alt="Description" />
 
-<!-- GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fjmp-dev/fjmp-dev/output/github-contribution-grid-snake-green.svg" alt="Snake eating my contributions" />
-</p>
-
 </div>
 
 ## 🌟 Sobre mí
@@ -23,7 +18,7 @@ Soy un **estudiante de Ingeniería en Software** y **desarrollador freelance** a
 
 ```javascript
 const francisco = {
-    code: ["PHP", "JavaScript", "Java", "C"],
+    code: ["PHP", "JavaScript", "Java", "C", "Python"],
     technologies: {
         frontend: ["React", "HTML5", "CSS3"],
         backend: ["Laravel", "PHP"],
@@ -67,9 +62,12 @@ const francisco = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+### Backend & Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
